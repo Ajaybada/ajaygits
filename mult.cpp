@@ -2,5 +2,8 @@
 using namespace std;
 int main()
 {
-    cout<<2*5<<endl;
+    int a,b;
+    cin>>a>>b;
+    cout<<"your multiply digit is::-"<<a*b<<endl;
+    return 0;
 }
