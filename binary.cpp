@@ -11,4 +11,5 @@ int main()
     int num;
     cin>>num;
     binary(num);
+    return 0;
 }
